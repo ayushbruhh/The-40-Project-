@@ -31,8 +31,27 @@
       </div>
       <div class="humidity">Humidity: 60%</div>
       <div class="wind">Wind speed: 6.2 km/h</div>
+      
     </div>
   </div>
+<div class="card">
+  <!-- partial:index.partial.html -->
+<body onLoad="initClock()">
+
+<div id="timedate">
+  <a id="mon">January</a>
+  <a id="d">1</a>,
+  <a id="y">0</a><br />
+  <a id="h">12</a> :
+  <a id="m">00</a>:
+  <a id="s">00</a>:
+  <a id="mi">000</a>
+</div>
+<!-- partial -->
+  
+</body>
+</div>
+
 </body>
 
 </html>
