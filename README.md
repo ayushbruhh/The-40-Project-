@@ -1,7 +1,7 @@
 # The-40-Project
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushbruhh](https://github.com/ayushbruhh)
-- 
+
 - 🔭 I’m currently working on [College WebSite](https://www.ecajmer.ac.in)
 
 - 🌱 I’m currently learning **Laravel ,Tailwind And React Native**
