@@ -104,3 +104,6 @@ function showWeatherData (data){
     weatherForecastEl.innerHTML = otherDayForcast;
 }
 
+
+
+

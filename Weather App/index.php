@@ -24,6 +24,12 @@
                     
                     
                 </div>
+                
+                <!-- //merge here -->
+                
+
+
+
             </div>
 
             <div class="place-container">
