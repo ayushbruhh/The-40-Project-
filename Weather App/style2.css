@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: 'Open Sans', sans-serif;
   background: #222;
-  /* background-image: url('https://source.unsplash.com/1600x900/?landscape'); */
+  background-image: url('https://source.unsplash.com/1600x900/?landscape');
   font-size: 70%;
 }
 
@@ -15,7 +15,7 @@ body {
   color: white;
   padding: 2em;
   border-radius: 20px;
-  width: 200px;
+  width: 300px;
   max-width: 320px;
   margin: 10px;
 }
