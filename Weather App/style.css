@@ -6,14 +6,14 @@
     padding:0;
 }
 
-body{
+/* body{
     background:url('https://source.unsplash.com/1600x900/?landscape');
     background-repeat: no-repeat;
     background-size:cover;
     overflow:hidden;
     height: 100vh;
     font-family: 'Poppins', sans-serif;
-}
+} */
 
 .container{
     padding: 20px 70px;
