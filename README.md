@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://animeonblogg.blogspot.com/](https://animeonblogg.blogspot.com/)
 
-- 💬 Ask me about **MEARN , Javascript , Python & C++**
+- 💬 Ask me about **MERN , Javascript , Python & C++**
 
 - 📫 How to reach me **ayushkashyap2k2@gmail.com**
 
